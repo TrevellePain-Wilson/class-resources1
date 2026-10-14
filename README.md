@@ -1,1 +1,2 @@
-# class-resources1
+## Study Tips:
+- Form study groups with classmates
